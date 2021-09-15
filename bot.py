@@ -6,7 +6,7 @@ from instaloader import Instaloader, Profile
 import time
 
 
-'''Coded by Anish Gowda 😃😃😃😃'''
+'''Coded by kotfreede 😃😃😃😃'''
 L = Instaloader()
 TOKEN = os.getenv("BOT_TOKEN")
 APP_NAME = os.getenv("APP_NAME")
@@ -16,7 +16,7 @@ START_MSG = '''*Welcome To the Bot🖐🖐*
 
 _Send me anyones instagram username to get their DP_
 
-*ex :* `mrk_yt_`...., *etc*'''
+*ex :* `kot_official_`...., *etc*'''
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO
